@@ -24,7 +24,7 @@
 		"react-component"
 	],
 	"author": "Randall Knutson <randall@form.io>",
-	"license": "MIT",
+	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/etelstamour/asset-manage/issues"
 	},
